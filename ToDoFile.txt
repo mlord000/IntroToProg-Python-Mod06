@@ -1,0 +1,6 @@
+run,low
+dance,high
+fly,low
+jump,high
+walk,middle
+jog,middle
